@@ -5,7 +5,7 @@
 | 프로그램 | 대상 | 최신 버전 | 받기 |
 |---|---|---|---|
 | **MAPDREAM** | AutoCAD 2021 ~ 2027 | 2026-11-06 | [⬇ MAPDREAM_20261106.zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.06/MAPDREAM_20261106.zip) · [바뀐 점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/mapdream-v2026.11.06) |
-| **MAPDREAM BIM** | Revit · Navisworks | 준비 중 | - |
+| **MAPDREAM BIM** | Revit 2024 · 2026, Navisworks Manage 2026 | 2026-11-04 | [⬇ MAPDREAM_BIM_20261104.zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.04/MAPDREAM_BIM_20261104.zip) · [설명](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/bim-v2026.11.04) |
 
 이전 버전은 [Releases](https://github.com/najonghyeok/MAPDREAM-Release/releases)에 있습니다.
 
@@ -19,6 +19,13 @@
 - AutoCAD 2027을 처음 설치했다면 한 번 켰다 끈 뒤에 설치하세요.
 - 지우려면 `제거.bat`을 실행합니다.
 - 명령 설명은 AutoCAD에서 `MD_HELP` 를 입력하세요.
+
+## MAPDREAM BIM (Revit · Navisworks) 설치
+
+1. Revit, Navisworks를 모두 닫습니다.
+2. zip을 아무 곳에 풉니다.
+3. `MAPDREAM_BIM` 폴더의 `설치.bat`을 실행합니다. (깔린 Revit 2024 / 2026, Navisworks Manage 2026을 찾아 설치)
+4. Revit을 켜면 **MAPDREAM BIM** 탭이 생깁니다.
 
 ## 문제가 있을 때
 
