@@ -22,10 +22,23 @@
 
 ## MAPDREAM BIM (Revit · Navisworks) 설치
 
-1. Revit, Navisworks를 모두 닫습니다.
-2. zip을 아무 곳에 풉니다.
-3. `MAPDREAM_BIM` 폴더의 `설치.bat`을 실행합니다. (깔린 Revit 2024 / 2026, Navisworks Manage 2026을 찾아 설치)
-4. Revit을 켜면 **MAPDREAM BIM** 탭이 생깁니다.
+**설치 파일(EXE, 추천)**
+
+1. Revit · Navisworks를 모두 닫습니다.
+2. `MAPDREAM_BIM_Setup_날짜.exe`를 실행하고, 설치할 프로그램(Revit 2024 / Revit 2026 / Navisworks Manage 2026)을 고릅니다.
+3. Revit / Navisworks를 켜면 **MAPDREAM BIM** 탭에서 사용할 수 있습니다.
+
+- 지울 때는 Windows **설정 → 앱 → MAPDREAM BIM → 제거**.
+- "Windows의 PC 보호" 창이 뜨면 **추가 정보 → 실행**을 누르세요.
+
+**zip**
+
+1. Revit · Navisworks를 모두 닫습니다.
+2. `MAPDREAM_BIM_날짜.zip`을 아무 곳에 풉니다.
+3. `MAPDREAM_BIM` 폴더의 `설치.bat`을 실행합니다. (설치된 Revit 2024 / 2026, Navisworks Manage 2026을 모두 찾아서 넣습니다)
+
+- 업데이트할 때도 새 파일을 받아 같은 방법으로 다시 설치하면 됩니다.
+- 예전 이름(THUGSO)으로 설치돼 있으면 자동으로 지웁니다.
 
 ## 문제가 있을 때
 
