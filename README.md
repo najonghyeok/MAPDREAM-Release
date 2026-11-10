@@ -2,10 +2,10 @@
 
 설치 파일만 올리는 곳입니다. 아래 **받기**를 누르면 바로 다운로드됩니다.
 
-| 프로그램 | 대상 | 최신 버전 | 받기 |
-|---|---|---|---|
-| **MAPDREAM** | AutoCAD 2021 ~ 2027 | 2026-11-10 | [⬇ 설치 파일 (EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.10/MAPDREAM_Setup_20261110.exe) · [⬇ zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.10/MAPDREAM_20261110.zip) · [바뀐 점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/mapdream-v2026.11.10) |
-| **MAPDREAM BIM** | Revit 2024 · 2026, Navisworks Manage 2026 | 2026-11-10 | [⬇ 설치 파일 (EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_Setup_20261110.exe) · [⬇ zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_20261110.zip) · [바뀐 점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/bim-v2026.11.10) |
+| 프로그램 | 최신 버전 | 받기 |
+|---|:---:|---|
+| **MAPDREAM**<br><sub>AutoCAD 2021 ~ 2027</sub> | 2026&#8209;11&#8209;10 | [⬇&nbsp;설치&nbsp;파일&nbsp;(EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.10/MAPDREAM_Setup_20261110.exe) · [⬇&nbsp;zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.10/MAPDREAM_20261110.zip) · [바뀐&nbsp;점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/mapdream-v2026.11.10) |
+| **MAPDREAM&nbsp;BIM**<br><sub>Revit 2024 · 2026, Navisworks Manage 2026</sub> | 2026&#8209;11&#8209;10 | [⬇&nbsp;설치&nbsp;파일&nbsp;(EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_Setup_20261110.exe) · [⬇&nbsp;zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_20261110.zip) · [바뀐&nbsp;점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/bim-v2026.11.10) |
 
 이전 버전은 [Releases](https://github.com/najonghyeok/MAPDREAM-Release/releases)에 있습니다.
 
@@ -37,10 +37,24 @@ AutoCAD 2027 등을 처음 설치했다면 한 번 켰다 끈 뒤에 설치하�
 
 ## MAPDREAM BIM (Revit · Navisworks) 설치
 
+### 방법 1: 설치 파일 (EXE, 추천)
+
+1. `MAPDREAM_BIM_Setup_날짜.exe`를 실행합니다. (관리자 권한 필요 없음)
+2. 설치할 프로그램(Revit 2024 / Revit 2026 / Navisworks Manage 2026)을 고릅니다. 이 PC에 없는 프로그램은 "(설치 안 됨)"으로 나오고 고를 수 없습니다.
+3. [설치]를 누르면 끝납니다. Revit / Navisworks를 켜면 **MAPDREAM BIM** 탭이 생깁니다.
+
+- Revit이나 Navisworks가 켜져 있으면 끄라는 안내가 나옵니다. 끈 뒤 [확인]을 누르세요.
+- Windows가 "PC 보호" 창을 띄우면 [추가 정보] → [실행]을 누르세요. (서명 없는 프로그램이라 나오는 안내)
+- 지우려면 Windows **[설정 → 앱]** 에서 **MAPDREAM BIM** 을 제거합니다.
+
+### 방법 2: zip
+
 1. Revit, Navisworks를 모두 닫습니다.
 2. zip을 아무 곳에 풉니다.
-3. `MAPDREAM_BIM` 폴더의 `설치.bat`을 실행합니다. (깔린 Revit 2024 / 2026, Navisworks Manage 2026을 찾아 설치)
-4. Revit을 켜면 **MAPDREAM BIM** 탭이 생깁니다.
+3. `MAPDREAM_BIM` 폴더의 `설치.bat`을 실행합니다. (깔린 Revit 2024 / 2026, Navisworks Manage 2026을 모두 찾아 설치)
+4. Revit / Navisworks를 켜면 **MAPDREAM BIM** 탭이 생깁니다.
+
+- 예전 이름(THUGSO)으로 설치돼 있으면 두 방법 모두 자동으로 지웁니다.
 
 ## 문제가 있을 때
 
