@@ -4,7 +4,7 @@
 
 | 프로그램 | 최신 버전 | 받기 |
 |---|:---:|---|
-| **MAPDREAM**<br><sub>AutoCAD 2021 ~ 2027</sub> | 2026&#8209;11&#8209;11 | [⬇&nbsp;설치&nbsp;파일&nbsp;(EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.11/MAPDREAM_Setup_20261111.exe) · [⬇&nbsp;zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.11/MAPDREAM_20261111.zip) · [바뀐&nbsp;점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/mapdream-v2026.11.11) |
+| **MAPDREAM**<br><sub>AutoCAD 2021 ~ 2027</sub> | 2026&#8209;11&#8209;12 | [⬇&nbsp;설치&nbsp;파일&nbsp;(EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.12/MAPDREAM_Setup_20261112.exe) · [⬇&nbsp;zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/mapdream-v2026.11.12/MAPDREAM_20261112.zip) · [바뀐&nbsp;점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/mapdream-v2026.11.12) |
 | **MAPDREAM&nbsp;BIM**<br><sub>Revit 2024 · 2026, Navisworks Manage 2026</sub> | 2026&#8209;11&#8209;10 | [⬇&nbsp;설치&nbsp;파일&nbsp;(EXE)](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_Setup_20261110.exe) · [⬇&nbsp;zip](https://github.com/najonghyeok/MAPDREAM-Release/releases/download/bim-v2026.11.10/MAPDREAM_BIM_20261110.zip) · [바뀐&nbsp;점](https://github.com/najonghyeok/MAPDREAM-Release/releases/tag/bim-v2026.11.10) |
 
 이전 버전은 [Releases](https://github.com/najonghyeok/MAPDREAM-Release/releases)에 있습니다.
